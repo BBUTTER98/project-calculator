@@ -1,3 +1,36 @@
 body{
-    background-color: #333;
+    color: #333;
+    background-color: white;
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 60px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 5px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 5px;
+}
+.btn-long{
+    height: 50px;
+    width: 245px;
+    font-size: 25px;
+    margin: 0 5px;
+}
+.input-window input{
+    height: 50px;
+    width: 235px;
+    font-size: 25px;
+    margin: 0 5px;
 }
